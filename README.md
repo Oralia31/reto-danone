@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The first thing you have to do is:
 
 step 1: clone the repository
-step 2: install the dependencies using ### `npm install`
-step 3: Run the program using: ### `npm start`
+step 2: install the dependencies using `npm install`
+step 3: Run the program using: `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
